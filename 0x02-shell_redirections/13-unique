@@ -1,2 +1,2 @@
 #!/bin/bash
-sort | uniq -ughp_iQ
+sort | uniq -u
